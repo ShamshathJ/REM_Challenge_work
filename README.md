@@ -26,9 +26,7 @@ What is the use of the application?
 
 It helps the user to browse through the application and allows to perform varios operations
 
-How to deploy the project ?
 
-Good question I dont have the git hub link
 
 What are all the basic operationsto be performed?.
 
