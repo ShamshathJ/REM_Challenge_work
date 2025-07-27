@@ -26,9 +26,7 @@ What is the use of the application?
 
 It helps the user to browse through the application and allows to perform varios operations
 
-
-
-What are all the basic operationsto be performed?.
+What are all the basic operations available?
 
 1. CreateLead
 2. Edit CreateLead
